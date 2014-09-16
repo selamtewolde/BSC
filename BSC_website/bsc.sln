@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bsc", "http://localhost:2529", "{51EB3CFF-5039-42AA-AC2B-A6736C6F8BD8}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2529"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\desktop\BSC\bsc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2529\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2529"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\desktop\BSC\bsc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2529\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\desktop\BSC\bsc\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EB3CFF-5039-42AA-AC2B-A6736C6F8BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EB3CFF-5039-42AA-AC2B-A6736C6F8BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
